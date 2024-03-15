@@ -118,7 +118,7 @@ namespace COMP1640_WebDev.Controllers
         {
             return View();
         }
-        public IActionResult MManagement()
+        public IActionResult MMManagement()
         {
             return View();
         }
